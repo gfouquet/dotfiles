@@ -1,0 +1,48 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="squash-tm" values="groovy" collectionTime="1455206296429" />
+      <project id="security.ad.fragment" values="groovy" collectionTime="1455205835075" />
+    </group>
+    <group name="Git">
+      <project id="squash-tm" values="config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.crlf.enabled" collectionTime="1455206296845" />
+      <project id="security.ad.fragment" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled" collectionTime="1455205835075" />
+    </group>
+    <group name="vcs">
+      <project id="squash-tm" values="hg4idea" collectionTime="1455206296389" />
+      <project id="security.ad.fragment" values="hg4idea" collectionTime="1455205834963" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="security.ad.fragment" values="Remote" collectionTime="1455205834963" />
+    </group>
+    <group name="language-level">
+      <project id="squash-tm" values="JDK_1_7,JDK_1_5" collectionTime="1455206296844" />
+      <project id="security.ad.fragment" values="JDK_1_7" collectionTime="1455205835075" />
+    </group>
+    <group name="Libraries by jars">
+      <project id="squash-tm" values="spring-boot_1.2,spring-core_4.1,spring-mvc_4.1,spring-security_3.2,spring-data-commons_1.9,spring-security-oauth2_2.0,thymeleaf_2.1,spring-data-jpa_1.7" collectionTime="1455206296844" />
+    </group>
+    <group name="file-type">
+      <project id="squash-tm" values="Manifest,JSON,UNKNOWN,HTML,Native,PLAIN_TEXT,DTD,JAVA,Images,Properties,XML,CLASS,SPI,Groovy,SQL,JSP,CSS,JavaScript,ARCHIVE,IDEA_MODULE,AspectJ" collectionTime="1455206296413" />
+      <project id="security.ad.fragment" values="PLAIN_TEXT,UNKNOWN,JAVA,XML,Groovy,Properties,IDEA_MODULE" collectionTime="1455205835074" />
+    </group>
+    <group name="module type">
+      <project id="squash-tm" values="JAVA_MODULE" collectionTime="1455206296389" />
+      <project id="security.ad.fragment" values="JAVA_MODULE" collectionTime="1455205834963" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.Remote.Debug" count="21" />
+      <entry feature="ide.settings.Appearance" count="18" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Font" count="8" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.Keymap" count="5" />
+      <entry feature="ideaapp.started" count="13" />
+      <entry feature="tips.of.the.day.next" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+</application>

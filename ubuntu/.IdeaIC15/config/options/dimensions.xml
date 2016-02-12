@@ -1,0 +1,42 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="230" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="384" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="1014" y="517" />
+    <location key="SettingsEditor.0.0.1920.1080" x="10" y="198" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="446" y="239" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="770" y="481" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1920.1080" x="538" y="231" />
+    <location key="#xdebugger.evaluate.0.0.1920.1080" x="2070" y="431" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="768" y="328" />
+    <location key="findTextDialog.0.0.1920.1080" x="717" y="309" />
+    <location key="StructurePopup.0.0.1920.1080" x="694" y="332" />
+    <location key="OptionsEditor.0.0.1920.1080" x="443" y="150" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="683" y="432" />
+    <location key="#Inspections.0.0.1920.1080" x="1087" y="242" />
+    <location key="replaceTextDialog.0.0.1920.1080" x="1255" y="366" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1920.1080" x="575" y="377" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="538" height="466" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1309" height="590" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1872" height="289" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1872" height="289" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1872" height="289" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1872" height="289" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1872" height="289" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1872" height="289" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1872" height="289" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1872" height="289" />
+    <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" width="376" height="196" />
+    <size key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1920.1080" width="824" height="694" />
+    <size key="#xdebugger.evaluate.0.0.1920.1080" width="619" height="426" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" width="374" height="558" />
+    <size key="findTextDialog.0.0.1920.1080" width="475" height="658" />
+    <size key="javadoc.popup.0.0.1920.1080" width="557" height="383" />
+    <size key="StructurePopup.0.0.1920.1080" width="544" height="369" />
+    <size key="OptionsEditor.0.0.1920.1080" width="1024" height="857" />
+    <size key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" width="525" height="402" />
+    <size key="#Inspections.0.0.1920.1080" width="720" height="668" />
+    <size key="replaceTextDialog.0.0.1920.1080" width="465" height="630" />
+    <size key="ReplaceDuplicatesPrompt.0.0.1920.1080" width="1171" height="110" />
+  </component>
+</application>

@@ -1,0 +1,18 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>searchFil</find>
+      <find>OBJECT_FACTORIES</find>
+      <find>factory.ob</find>
+      <find>test_case_library_content</find>
+      <find>cobertura</find>
+      <find>&lt;sonar.java.coveragePlugin&gt;cobertura&lt;/sonar.java.coveragePlugin&gt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;!--&lt;sonar.java.coveragePlugin&gt;cobertura&lt;/sonar.java.coveragePlugin&gt;--&gt;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/Projects/sqtm</dir>
+    </dirStrings>
+  </component>
+</application>

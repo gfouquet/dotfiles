@@ -1,0 +1,43 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/sqtm" />
+        <option value="$USER_HOME$/Projects/sqad" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/sqtm" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Projects/sqtm" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects/sqad">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1821" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455205782116" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/sqtm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1821" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455206307577" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Projects" />
+  </component>
+</application>

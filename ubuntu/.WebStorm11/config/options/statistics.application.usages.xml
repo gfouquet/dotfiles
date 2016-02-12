@@ -1,0 +1,33 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="tm.web" values="config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1454595957484" />
+    </group>
+    <group name="vcs">
+      <project id="tm.web" values="hg4idea" collectionTime="1454595957477" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="tm.web" values="ECMAScript 5.1" collectionTime="1454595957589" />
+    </group>
+    <group name="file-type">
+      <project id="tm.web" values="XML,JSON,SourceMap,HTML,PLAIN_TEXT,UNKNOWN,Less,Native,JSHint,JavaScript,Images,CSS,JSP" collectionTime="1454595957480" />
+    </group>
+    <group name="module type">
+      <project id="tm.web" values="WEB_MODULE" collectionTime="1454595957477" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="tm.web" values="Project,Project" collectionTime="1454595957589" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ide.settings.Appearance" count="4" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Font" count="6" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ideaapp.started" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+    </counts>
+  </component>
+</application>
