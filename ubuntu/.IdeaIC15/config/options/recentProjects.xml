@@ -2,7 +2,13 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/Projects/dotfiles" />
         <option value="$USER_HOME$/Projects/sqtm" />
+        <option value="$USER_HOME$/Projects/sqkancho" />
+        <option value="$USER_HOME$/Projects/sqdistro" />
+        <option value="$USER_HOME$/Projects/untitled" />
+        <option value="$USER_HOME$/Projects/sqrtc" />
+        <option value="$USER_HOME$/Projects/untitled1" />
         <option value="$USER_HOME$/Projects/sqad" />
       </list>
     </option>
@@ -11,9 +17,20 @@
         <option value="$USER_HOME$/Projects/sqtm" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/Projects/sqtm" />
+    <option name="lastPath" value="$USER_HOME$/Projects/dotfiles" />
     <option name="additionalInfo">
       <map>
+        <entry key="$USER_HOME$/Projects/dotfiles">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456496056480" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Projects/sqad">
           <value>
             <RecentProjectMetaInfo>
@@ -25,13 +42,68 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Projects/sqtm">
+        <entry key="$USER_HOME$/Projects/sqdistro">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IC-143.1821" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1455206307577" />
+              <option name="projectOpenTimestamp" value="1456395077291" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/sqkancho">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456482505047" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/sqrtc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1821" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455728655027" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/sqtm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456494360536" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1821" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456332796724" />
+              <option name="buildTimestamp" value="1453158000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/untitled1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1821" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455728596587" />
               <option name="buildTimestamp" value="1453158000000" />
             </RecentProjectMetaInfo>
           </value>

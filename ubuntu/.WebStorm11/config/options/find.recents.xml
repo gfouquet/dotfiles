@@ -1,0 +1,7 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>jshint validthis: true</find>
+    </findStrings>
+  </component>
+</application>

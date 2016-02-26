@@ -1,15 +1,45 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>searchFil</find>
-      <find>OBJECT_FACTORIES</find>
-      <find>factory.ob</find>
-      <find>test_case_library_content</find>
-      <find>cobertura</find>
-      <find>&lt;sonar.java.coveragePlugin&gt;cobertura&lt;/sonar.java.coveragePlugin&gt;</find>
+      <find>UnreadableResponseException</find>
+      <find>remove-campaign</find>
+      <find>org.squashtest.tm.domain.project.Project</find>
+      <find>&quot;org.squashtest.tm.domain.project.Project&quot;</find>
+      <find>&quot;READ&quot;</find>
+      <find>EAD = &quot;READ&quot;</find>
+      <find>ROLE_ADMIN\s</find>
+      <find>case ([A-Z_]+).*\n\s*classname\s*=\s*(&quot;[A-z.]+&quot;)</find>
+      <find>this</find>
+      <find>&quot;sourceNodesIds&quot;</find>
+      <find>&quot;requirementId&quot;</find>
+      <find>xerces</find>
+      <find>init</find>
+      <find>report</find>
+      <find>\[[&quot;']([a-z]+)[&quot;']\]</find>
+      <find>1.13</find>
+      <find>RC3</find>
+      <find>spring-boo</find>
+      <find>aclService</find>
+      <find>&quot;squashtest.core.security.AclService&quot;</find>
+      <find>spock-test-dependencies</find>
+      <find>groov</find>
+      <find>groovy</find>
+      <find>/it</find>
+      <find>helper</find>
+      <find>classpath</find>
+      <find>classpath?:</find>
+      <find>2016</find>
+      <find>Model.Existence</find>
+      <find>import.*Existence</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;!--&lt;sonar.java.coveragePlugin&gt;cobertura&lt;/sonar.java.coveragePlugin&gt;--&gt;</replace>
+      <replace>projectTargetStatus(status: $1, testCaseLibraryId: $2, requirementLibraryId: $3)</replace>
+      <replace>estCAseLibraryId</replace>
+      <replace>id</replace>
+      <replace>classNameByEntity.put($1, $2)</replace>
+      <replace>REQUIREMENT_ID</replace>
+      <replace>.$1</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/Projects/sqtm</dir>

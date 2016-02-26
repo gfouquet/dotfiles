@@ -1,47 +1,77 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="libraries">
-      <project id="squash-tm" values="groovy" collectionTime="1455206296429" />
+      <project id="squash-tm" values="groovy" collectionTime="1456482504910" />
+      <project id="plugin.bugtracker.rtc" values="groovy" collectionTime="1455728596576" />
       <project id="security.ad.fragment" values="groovy" collectionTime="1455205835075" />
     </group>
     <group name="Git">
-      <project id="squash-tm" values="config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.crlf.enabled" collectionTime="1455206296845" />
-      <project id="security.ad.fragment" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled" collectionTime="1455205835075" />
+      <project id="security.ad.fragment" values="config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1455205835075" />
+      <project id="untitled1" values="config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled" collectionTime="1455728654982" />
+      <project id="squash-tm-distribution" values="config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH" collectionTime="1456417015905" />
+      <project id="plugin.bugtracker.rtc" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1455728596585" />
+      <project id="untitled" values="config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1456332801336" />
+      <project id="squash-tm" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1456482504922" />
     </group>
     <group name="vcs">
-      <project id="squash-tm" values="hg4idea" collectionTime="1455206296389" />
+      <project id="squash-tm" values="hg4idea" collectionTime="1456482504862" />
+      <project id="squash-tm-distribution" values="hg4idea" collectionTime="1456417015790" />
+      <project id="plugin.bugtracker.rtc" values="hg4idea" collectionTime="1455728596492" />
       <project id="security.ad.fragment" values="hg4idea" collectionTime="1455205834963" />
     </group>
+    <group name="run-configuration-type-temp">
+      <project id="untitled" values="Application" collectionTime="1456332801269" />
+      <project id="squash-tm" values="JUnit" collectionTime="1456482504863" />
+    </group>
     <group name="run-configuration-type">
+      <project id="squash-tm" values="Remote" collectionTime="1456482504863" />
       <project id="security.ad.fragment" values="Remote" collectionTime="1455205834963" />
     </group>
     <group name="language-level">
-      <project id="squash-tm" values="JDK_1_7,JDK_1_5" collectionTime="1455206296844" />
       <project id="security.ad.fragment" values="JDK_1_7" collectionTime="1455205835075" />
+      <project id="untitled1" values="JDK_1_7" collectionTime="1455728654982" />
+      <project id="squash-tm-distribution" values="JDK_1_5,JDK_1_8" collectionTime="1456417015904" />
+      <project id="plugin.bugtracker.rtc" values="JDK_1_7" collectionTime="1455728596584" />
+      <project id="untitled" values="JDK_1_8,JDK_1_3" collectionTime="1456332801336" />
+      <project id="squash-tm" values="JDK_1_7,JDK_1_5" collectionTime="1456482504921" />
     </group>
     <group name="Libraries by jars">
-      <project id="squash-tm" values="spring-boot_1.2,spring-core_4.1,spring-mvc_4.1,spring-security_3.2,spring-data-commons_1.9,spring-security-oauth2_2.0,thymeleaf_2.1,spring-data-jpa_1.7" collectionTime="1455206296844" />
+      <project id="squash-tm" values="thymeleaf_2.1,spring-core_4.1,spring-boot_1.2,spring-mvc_4.1,spring-data-commons_1.9,spring-security-oauth2_2.0,spring-data-jpa_1.7,spring-security_3.2" collectionTime="1456482504920" />
+      <project id="plugin.bugtracker.rtc" values="spring-mvc_4.1,spring-core_4.1,spring-data-jpa_1.7,spring-boot_1.2,spring-data-commons_1.9" collectionTime="1455728596584" />
     </group>
     <group name="file-type">
-      <project id="squash-tm" values="Manifest,JSON,UNKNOWN,HTML,Native,PLAIN_TEXT,DTD,JAVA,Images,Properties,XML,CLASS,SPI,Groovy,SQL,JSP,CSS,JavaScript,ARCHIVE,IDEA_MODULE,AspectJ" collectionTime="1455206296413" />
-      <project id="security.ad.fragment" values="PLAIN_TEXT,UNKNOWN,JAVA,XML,Groovy,Properties,IDEA_MODULE" collectionTime="1455205835074" />
+      <project id="security.ad.fragment" values="IDEA_MODULE,XML,Properties,JAVA,PLAIN_TEXT,Groovy,UNKNOWN" collectionTime="1455205835074" />
+      <project id="untitled1" values="XML,CLASS,PLAIN_TEXT,JAVA,IDEA_MODULE,UNKNOWN" collectionTime="1455728654981" />
+      <project id="squash-tm-distribution" values="Images,XML,IDEA_MODULE,Properties,UNKNOWN,Groovy,PLAIN_TEXT" collectionTime="1456417015899" />
+      <project id="plugin.bugtracker.rtc" values="IDEA_MODULE,Properties,XML,UNKNOWN,PLAIN_TEXT,Groovy,JAVA" collectionTime="1455728596570" />
+      <project id="untitled" values="JAVA,UNKNOWN,XML,PLAIN_TEXT,IDEA_MODULE" collectionTime="1456332801333" />
+      <project id="squash-tm" values="Groovy,JSON,AspectJ,UNKNOWN,Manifest,CSS,SQL,DTD,HTML,ARCHIVE,IDEA_MODULE,JAVA,PLAIN_TEXT,JSP,Properties,CLASS,SPI,XML,Images,JavaScript,Native" collectionTime="1456482504893" />
     </group>
     <group name="module type">
-      <project id="squash-tm" values="JAVA_MODULE" collectionTime="1455206296389" />
       <project id="security.ad.fragment" values="JAVA_MODULE" collectionTime="1455205834963" />
+      <project id="untitled1" values="JAVA_MODULE" collectionTime="1455728654919" />
+      <project id="squash-tm-distribution" values="JAVA_MODULE" collectionTime="1456417015790" />
+      <project id="plugin.bugtracker.rtc" values="JAVA_MODULE" collectionTime="1455728596492" />
+      <project id="untitled" values="JAVA_MODULE" collectionTime="1456332801269" />
+      <project id="squash-tm" values="JAVA_MODULE" collectionTime="1456482504863" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="execute.Remote.Debug" count="21" />
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="execute.Application.Run" count="28" />
+      <entry feature="execute.JUnit.Run" count="24" />
+      <entry feature="execute.Remote.Debug" count="24" />
       <entry feature="ide.settings.Appearance" count="18" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
       <entry feature="ide.settings.Console_Font" count="1" />
       <entry feature="ide.settings.Font" count="8" />
-      <entry feature="ide.settings.Inspections" count="1" />
-      <entry feature="ide.settings.Keymap" count="5" />
-      <entry feature="ideaapp.started" count="13" />
-      <entry feature="tips.of.the.day.next" count="7" />
+      <entry feature="ide.settings.Inspections" count="3" />
+      <entry feature="ide.settings.Keymap" count="9" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="26" />
+      <entry feature="terminal.linux" count="3" />
+      <entry feature="tips.of.the.day.next" count="9" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
     </counts>
   </component>

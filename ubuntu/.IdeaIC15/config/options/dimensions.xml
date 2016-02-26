@@ -1,42 +1,65 @@
 <application>
   <component name="DimensionService">
-    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="230" />
-    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="384" />
-    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="1014" y="517" />
-    <location key="SettingsEditor.0.0.1920.1080" x="10" y="198" />
-    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="446" y="239" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="230" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="580" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="1014" y="629" />
+    <location key="SettingsEditor.0.0.1920.1080" x="274" y="257" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="446" y="211" />
     <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="770" y="481" />
     <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1920.1080" x="538" y="231" />
     <location key="#xdebugger.evaluate.0.0.1920.1080" x="2070" y="431" />
-    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="768" y="328" />
-    <location key="findTextDialog.0.0.1920.1080" x="717" y="309" />
-    <location key="StructurePopup.0.0.1920.1080" x="694" y="332" />
-    <location key="OptionsEditor.0.0.1920.1080" x="443" y="150" />
-    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="683" y="432" />
-    <location key="#Inspections.0.0.1920.1080" x="1087" y="242" />
-    <location key="replaceTextDialog.0.0.1920.1080" x="1255" y="366" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="768" y="412" />
+    <location key="findTextDialog.0.0.1920.1080" x="717" y="422" />
+    <location key="StructurePopup.0.0.1920.1080" x="687" y="325" />
+    <location key="OptionsEditor.0.0.1920.1080" x="443" y="223" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="683" y="656" />
+    <location key="#Inspections.0.0.1920.1080" x="230" y="85" />
+    <location key="replaceTextDialog.0.0.1920.1080" x="1255" y="394" />
     <location key="ReplaceDuplicatesPrompt.0.0.1920.1080" x="575" y="377" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080" x="667" y="288" />
+    <location key="#Intentions.0.0.1920.1080" x="555" y="220" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080" x="773" y="560" />
+    <location key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog.0.0.1920.1080" x="694" y="467" />
+    <location key="#org.jetbrains.kotlin.idea.refactoring.safeDelete.KotlinOverridingDialog.0.0.1920.1080" x="400" y="62" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1920.1080" x="657" y="230" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="666" y="384" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.0.0.1920.1080" x="685" y="384" />
+    <location key="new project wizard.0.0.1920.1080" x="588" y="188" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="664" y="409" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="698" y="332" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2591" y="422" />
     <size key="FileChooserDialogImpl.0.0.1920.1080" width="538" height="466" />
-    <size key="SettingsEditor.0.0.1920.1080" width="1309" height="590" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1872" height="289" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1872" height="289" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1872" height="289" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1872" height="289" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1872" height="289" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1872" height="289" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1872" height="289" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1872" height="289" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1322" height="590" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1872" height="184" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1872" height="184" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1872" height="184" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1872" height="184" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1872" height="354" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1872" height="354" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1872" height="354" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1872" height="354" />
     <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" width="376" height="196" />
     <size key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1920.1080" width="824" height="694" />
     <size key="#xdebugger.evaluate.0.0.1920.1080" width="619" height="426" />
-    <size key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" width="374" height="558" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" width="413" height="558" />
     <size key="findTextDialog.0.0.1920.1080" width="475" height="658" />
-    <size key="javadoc.popup.0.0.1920.1080" width="557" height="383" />
+    <size key="javadoc.popup.0.0.1920.1080" width="847" height="528" />
     <size key="StructurePopup.0.0.1920.1080" width="544" height="369" />
-    <size key="OptionsEditor.0.0.1920.1080" width="1024" height="857" />
+    <size key="OptionsEditor.0.0.1920.1080" width="1198" height="857" />
     <size key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" width="525" height="402" />
-    <size key="#Inspections.0.0.1920.1080" width="720" height="668" />
+    <size key="#Inspections.0.0.1920.1080" width="1168" height="900" />
     <size key="replaceTextDialog.0.0.1920.1080" width="465" height="630" />
     <size key="ReplaceDuplicatesPrompt.0.0.1920.1080" width="1171" height="110" />
+    <size key="com.intellij.ide.util.TipDialog.0.0.1920.1080" width="578" height="372" />
+    <size key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080" width="575" height="554" />
+    <size key="#Intentions.0.0.1920.1080" width="800" height="661" />
+    <size key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080" width="440" height="149" />
+    <size key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog.0.0.1920.1080" width="521" height="336" />
+    <size key="#org.jetbrains.kotlin.idea.refactoring.safeDelete.KotlinOverridingDialog.0.0.1920.1080" width="1111" height="1050" />
+    <size key="VCS.ChangeListViewerDialog.0.0.1920.1080" width="595" height="670" />
+    <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" width="577" height="306" />
+    <size key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.0.0.1920.1080" width="540" height="334" />
+    <size key="new project wizard.0.0.1920.1080" width="734" height="809" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" width="581" height="311" />
   </component>
 </application>
