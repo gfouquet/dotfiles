@@ -2,6 +2,14 @@
   <component name="FindRecents">
     <findStrings>
       <find>jshint validthis: true</find>
+      <find>txt-e</find>
+      <find>txt-</find>
+      <find>span.span-red</find>
+      <find>this</find>
+      <find>decorateEnablingMethods</find>
+      <find>validthis</find>
+      <find>exec-status-</find>
+      <find>exec-sta</find>
     </findStrings>
   </component>
 </application>

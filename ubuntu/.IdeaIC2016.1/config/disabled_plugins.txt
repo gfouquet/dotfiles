@@ -1,0 +1,8 @@
+org.jetbrains.plugins.gradle
+CVS
+com.intellij.uiDesigner
+org.jetbrains.android
+TestNG-J
+Subversion
+AntSupport
+DevKit

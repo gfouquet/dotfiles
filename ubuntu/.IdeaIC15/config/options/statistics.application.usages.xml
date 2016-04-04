@@ -1,77 +1,125 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="libraries">
-      <project id="squash-tm" values="groovy" collectionTime="1456482504910" />
-      <project id="plugin.bugtracker.rtc" values="groovy" collectionTime="1455728596576" />
+      <project id="security.ldap.fragment" values="groovy" collectionTime="1457445968947" />
       <project id="security.ad.fragment" values="groovy" collectionTime="1455205835075" />
+      <project id="plugin.bugtracker.jirarest" values="groovy" collectionTime="1456840442545" />
+      <project id="squashtest-integration-tests" values="groovy" collectionTime="1459254851514" />
+      <project id="plugin.bugtracker.rtc" values="groovy" collectionTime="1455728596576" />
+      <project id="squash-tm" values="groovy" collectionTime="1459760020568" />
     </group>
     <group name="Git">
-      <project id="security.ad.fragment" values="config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1455205835075" />
-      <project id="untitled1" values="config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled" collectionTime="1455728654982" />
-      <project id="squash-tm-distribution" values="config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH" collectionTime="1456417015905" />
-      <project id="plugin.bugtracker.rtc" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1455728596585" />
-      <project id="untitled" values="config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1456332801336" />
-      <project id="squash-tm" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1456482504922" />
+      <project id="security.ldap.fragment" values="config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1457445968949" />
+      <project id="squashtest-integration-tests" values="config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled" collectionTime="1459254851522" />
+      <project id="security.ad.fragment" values="config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1455205835075" />
+      <project id="squash-tm-distribution" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.detached.enabled" collectionTime="1456417015905" />
+      <project id="untitled1" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1455728654982" />
+      <project id="iteration-deletion-perf-test" values="config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,config.push.autoupdate.disabled,data.remotes.in.project.1,config.force.push.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1458555090585" />
+      <project id="plugin.bugtracker.jirarest" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled" collectionTime="1456840442548" />
+      <project id="dotfiles" values="data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,data.local.branches.count.1,data.remote.branches.count.1,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled" collectionTime="1457428774043" />
+      <project id="squash-tm" values="config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1459760020582" />
+      <project id="saas.management.fragment" values="config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled" collectionTime="1457615900358" />
+      <project id="plugin.bugtracker.rtc" values="config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled" collectionTime="1455728596585" />
+      <project id="untitled" values="config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1456332801336" />
+      <project id="bacasable" values="config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1459354803218" />
     </group>
     <group name="vcs">
-      <project id="squash-tm" values="hg4idea" collectionTime="1456482504862" />
-      <project id="squash-tm-distribution" values="hg4idea" collectionTime="1456417015790" />
-      <project id="plugin.bugtracker.rtc" values="hg4idea" collectionTime="1455728596492" />
+      <project id="security.ldap.fragment" values="hg4idea" collectionTime="1457445968863" />
+      <project id="squashtest-integration-tests" values="hg4idea" collectionTime="1459254851420" />
       <project id="security.ad.fragment" values="hg4idea" collectionTime="1455205834963" />
+      <project id="squash-tm-distribution" values="hg4idea" collectionTime="1456417015790" />
+      <project id="iteration-deletion-perf-test" values="Git" collectionTime="1458555090465" />
+      <project id="plugin.bugtracker.jirarest" values="hg4idea" collectionTime="1456840442480" />
+      <project id="dotfiles" values="Git" collectionTime="1457428773953" />
+      <project id="saas.management.fragment" values="hg4idea" collectionTime="1457615900215" />
+      <project id="plugin.bugtracker.rtc" values="hg4idea" collectionTime="1455728596492" />
+      <project id="squash-tm" values="hg4idea" collectionTime="1459760020485" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="untitled" values="Application" collectionTime="1456332801269" />
-      <project id="squash-tm" values="JUnit" collectionTime="1456482504863" />
+      <project id="squash-tm" values="JUnit" collectionTime="1459760020487" />
     </group>
     <group name="run-configuration-type">
-      <project id="squash-tm" values="Remote" collectionTime="1456482504863" />
+      <project id="saas.management.fragment" values="Remote" collectionTime="1457615900215" />
+      <project id="squash-tm" values="MavenRunConfiguration,Remote" collectionTime="1459760020487" />
       <project id="security.ad.fragment" values="Remote" collectionTime="1455205834963" />
     </group>
     <group name="language-level">
+      <project id="security.ldap.fragment" values="JDK_1_8,JDK_1_7" collectionTime="1457445968949" />
+      <project id="squashtest-integration-tests" values="JDK_1_8,JDK_1_7" collectionTime="1459254851520" />
       <project id="security.ad.fragment" values="JDK_1_7" collectionTime="1455205835075" />
-      <project id="untitled1" values="JDK_1_7" collectionTime="1455728654982" />
       <project id="squash-tm-distribution" values="JDK_1_5,JDK_1_8" collectionTime="1456417015904" />
+      <project id="untitled1" values="JDK_1_7" collectionTime="1455728654982" />
+      <project id="iteration-deletion-perf-test" values="JDK_1_7,JDK_1_8" collectionTime="1458555090584" />
+      <project id="plugin.bugtracker.jirarest" values="JDK_1_6,JDK_1_8" collectionTime="1456840442548" />
+      <project id="dotfiles" values="JDK_1_6" collectionTime="1457428774040" />
+      <project id="squash-tm" values="JDK_1_7,JDK_1_5" collectionTime="1459760020581" />
+      <project id="saas.management.fragment" values="JDK_1_8,JDK_1_7" collectionTime="1457615900357" />
       <project id="plugin.bugtracker.rtc" values="JDK_1_7" collectionTime="1455728596584" />
-      <project id="untitled" values="JDK_1_8,JDK_1_3" collectionTime="1456332801336" />
-      <project id="squash-tm" values="JDK_1_7,JDK_1_5" collectionTime="1456482504921" />
+      <project id="untitled" values="JDK_1_3,JDK_1_8" collectionTime="1456332801336" />
+      <project id="bacasable" values="JDK_1_8" collectionTime="1459354803214" />
     </group>
     <group name="Libraries by jars">
-      <project id="squash-tm" values="thymeleaf_2.1,spring-core_4.1,spring-boot_1.2,spring-mvc_4.1,spring-data-commons_1.9,spring-security-oauth2_2.0,spring-data-jpa_1.7,spring-security_3.2" collectionTime="1456482504920" />
-      <project id="plugin.bugtracker.rtc" values="spring-mvc_4.1,spring-core_4.1,spring-data-jpa_1.7,spring-boot_1.2,spring-data-commons_1.9" collectionTime="1455728596584" />
+      <project id="security.ldap.fragment" values="spring-boot_1.2,spring-data-commons_1.9,spring-mvc_4.1,spring-security-oauth2_2.0,spring-core_4.1,thymeleaf_2.1,spring-data-jpa_1.7,spring-security_3.2" collectionTime="1457445968949" />
+      <project id="saas.management.fragment" values="spring-mvc_4.1,spring-core_4.1,spring-security_3.2,thymeleaf_2.1,spring-data-jpa_1.7,spring-data-commons_1.9,spring-security-oauth2_2.0,spring-boot_1.2" collectionTime="1457615900356" />
+      <project id="plugin.bugtracker.jirarest" values="spring-osgi_2.0,spring-core_3.0" collectionTime="1456840442548" />
+      <project id="squashtest-integration-tests" values="spring-security-oauth2_2.0,spring-security_4.0,spring-boot_1.3,spring-data-jpa_1.9,spring-data-commons_1.11,spring-mvc_4.2,spring-core_4.2" collectionTime="1459254851520" />
+      <project id="plugin.bugtracker.rtc" values="spring-data-jpa_1.7,spring-data-commons_1.9,spring-mvc_4.1,spring-boot_1.2,spring-core_4.1" collectionTime="1455728596584" />
+      <project id="squash-tm" values="spring-mvc_4.2,spring-security_4.0,spring-core_4.2,spring-security-oauth2_2.0,thymeleaf_2.1,spring-boot_1.3,spring-data-jpa_1.9,spring-data-commons_1.11" collectionTime="1459760020581" />
     </group>
     <group name="file-type">
-      <project id="security.ad.fragment" values="IDEA_MODULE,XML,Properties,JAVA,PLAIN_TEXT,Groovy,UNKNOWN" collectionTime="1455205835074" />
-      <project id="untitled1" values="XML,CLASS,PLAIN_TEXT,JAVA,IDEA_MODULE,UNKNOWN" collectionTime="1455728654981" />
-      <project id="squash-tm-distribution" values="Images,XML,IDEA_MODULE,Properties,UNKNOWN,Groovy,PLAIN_TEXT" collectionTime="1456417015899" />
-      <project id="plugin.bugtracker.rtc" values="IDEA_MODULE,Properties,XML,UNKNOWN,PLAIN_TEXT,Groovy,JAVA" collectionTime="1455728596570" />
-      <project id="untitled" values="JAVA,UNKNOWN,XML,PLAIN_TEXT,IDEA_MODULE" collectionTime="1456332801333" />
-      <project id="squash-tm" values="Groovy,JSON,AspectJ,UNKNOWN,Manifest,CSS,SQL,DTD,HTML,ARCHIVE,IDEA_MODULE,JAVA,PLAIN_TEXT,JSP,Properties,CLASS,SPI,XML,Images,JavaScript,Native" collectionTime="1456482504893" />
+      <project id="security.ldap.fragment" values="Properties,PLAIN_TEXT,IDEA_MODULE,JAVA,UNKNOWN,XML,Groovy,Mercurial file" collectionTime="1457445968946" />
+      <project id="squashtest-integration-tests" values="Properties,UNKNOWN,PLAIN_TEXT,ARCHIVE,Groovy,Native,DTD,Images,XML,IDEA_MODULE,JAVA" collectionTime="1459254851508" />
+      <project id="security.ad.fragment" values="JAVA,XML,IDEA_MODULE,Properties,UNKNOWN,PLAIN_TEXT,Groovy" collectionTime="1455205835074" />
+      <project id="squash-tm-distribution" values="Properties,UNKNOWN,Images,PLAIN_TEXT,XML,Groovy,IDEA_MODULE" collectionTime="1456417015899" />
+      <project id="untitled1" values="CLASS,PLAIN_TEXT,XML,IDEA_MODULE,JAVA,UNKNOWN" collectionTime="1455728654981" />
+      <project id="iteration-deletion-perf-test" values="PLAIN_TEXT,UNKNOWN,XML,SQL,IDEA_MODULE,JSON,Git file" collectionTime="1458555090581" />
+      <project id="plugin.bugtracker.jirarest" values="Groovy,XML,JAVA,IDEA_MODULE,PLAIN_TEXT,Properties,UNKNOWN" collectionTime="1456840442543" />
+      <project id="dotfiles" values="UNKNOWN,ARCHIVE,IDEA_MODULE,Git file,XML,PLAIN_TEXT" collectionTime="1457428774023" />
+      <project id="squash-tm" values="Ignore file,SQL,Mercurial file,Docker file,HTML,Properties,JSP,Groovy,XML,DTD,ARCHIVE,C++,JSON,JAVA,SPI,UNKNOWN,Native,AspectJ,CSS,JSHint file,Images,IDEA_MODULE,PATCH,Npm file,CLASS,JavaScript,PLAIN_TEXT" collectionTime="1459760020542" />
+      <project id="saas.management.fragment" values="Properties,UNKNOWN,IDEA_MODULE,Groovy,JAVA,Mercurial file,XML,PLAIN_TEXT,JSON" collectionTime="1457615900340" />
+      <project id="plugin.bugtracker.rtc" values="IDEA_MODULE,XML,Groovy,UNKNOWN,PLAIN_TEXT,Properties,JAVA" collectionTime="1455728596570" />
+      <project id="untitled" values="JAVA,PLAIN_TEXT,IDEA_MODULE,UNKNOWN,XML" collectionTime="1456332801333" />
+      <project id="bacasable" values="UNKNOWN" collectionTime="1459354803208" />
     </group>
     <group name="module type">
+      <project id="security.ldap.fragment" values="JAVA_MODULE" collectionTime="1457445968863" />
+      <project id="squashtest-integration-tests" values="JAVA_MODULE" collectionTime="1459254851420" />
       <project id="security.ad.fragment" values="JAVA_MODULE" collectionTime="1455205834963" />
-      <project id="untitled1" values="JAVA_MODULE" collectionTime="1455728654919" />
       <project id="squash-tm-distribution" values="JAVA_MODULE" collectionTime="1456417015790" />
+      <project id="untitled1" values="JAVA_MODULE" collectionTime="1455728654919" />
+      <project id="iteration-deletion-perf-test" values="JAVA_MODULE" collectionTime="1458555090465" />
+      <project id="plugin.bugtracker.jirarest" values="JAVA_MODULE" collectionTime="1456840442480" />
+      <project id="dotfiles" values="JAVA_MODULE" collectionTime="1457428773954" />
+      <project id="saas.management.fragment" values="JAVA_MODULE" collectionTime="1457615900215" />
       <project id="plugin.bugtracker.rtc" values="JAVA_MODULE" collectionTime="1455728596492" />
       <project id="untitled" values="JAVA_MODULE" collectionTime="1456332801269" />
-      <project id="squash-tm" values="JAVA_MODULE" collectionTime="1456482504863" />
+      <project id="squash-tm" values="JAVA_MODULE" collectionTime="1459760020486" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="CreateFile.CreateFileAction" count="2" />
       <entry feature="execute.Application.Run" count="28" />
-      <entry feature="execute.JUnit.Run" count="24" />
-      <entry feature="execute.Remote.Debug" count="24" />
+      <entry feature="execute.JUnit.Coverage" count="1" />
+      <entry feature="execute.JUnit.Debug" count="1" />
+      <entry feature="execute.JUnit.Run" count="28" />
+      <entry feature="execute.MavenRunConfiguration.Debug" count="1" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="44" />
+      <entry feature="execute.Remote.Debug" count="70" />
       <entry feature="ide.settings.Appearance" count="18" />
+      <entry feature="ide.settings.Code_Style" count="1" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
       <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="3" />
       <entry feature="ide.settings.Font" count="8" />
-      <entry feature="ide.settings.Inspections" count="3" />
-      <entry feature="ide.settings.Keymap" count="9" />
+      <entry feature="ide.settings.Inspections" count="5" />
+      <entry feature="ide.settings.Keymap" count="10" />
+      <entry feature="ide.settings.Maven" count="1" />
       <entry feature="ide.settings.Version_Control" count="1" />
-      <entry feature="ideaapp.started" count="26" />
-      <entry feature="terminal.linux" count="3" />
-      <entry feature="tips.of.the.day.next" count="9" />
+      <entry feature="ideaapp.started" count="37" />
+      <entry feature="terminal.linux" count="4" />
+      <entry feature="tips.of.the.day.next" count="11" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
     </counts>
   </component>

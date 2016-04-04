@@ -7,11 +7,12 @@
     <property name="WebStorm.lineNumbersEnabled" value="true" />
     <property name="installation.uid" value="c42cc85d-5d30-4d89-afce-7bd3a79910cd" />
     <property name="WebStorm.initialConfigurationShown" value="true" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/settings.jar&#10;/home/gregory/.IdeaIC15/config/keymaps/OSX-flavored default for XWin.xml&#10;/home/gregory/Projects/sqtm/tm/tm.web" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/sqtm/tm/tm.web/node_modules/less/bin/lessc&#10;/home/gregory/settings.jar&#10;/home/gregory/.IdeaIC15/config/keymaps/OSX-flavored default for XWin.xml&#10;/home/gregory/Projects/sqtm/tm/tm.web" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="fileTypeChangedCounter" value="1" />
     <property name="selected.color.option.type" value="DART_FUNCTION_TYPE_ALIAS" />
     <property name="KEYMAP" value="UNDO" />
+    <property name="PACKAGE_FILTER" value="" />
   </component>
 </application>

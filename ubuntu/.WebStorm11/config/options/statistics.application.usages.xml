@@ -1,22 +1,22 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="Git">
-      <project id="tm.web" values="config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1455554475558" />
-    </group>
-    <group name="vcs">
-      <project id="tm.web" values="hg4idea" collectionTime="1455554475542" />
-    </group>
     <group name="JavaScript versions">
-      <project id="tm.web" values="ECMAScript 5.1" collectionTime="1455554475689" />
-    </group>
-    <group name="file-type">
-      <project id="tm.web" values="Native,PLAIN_TEXT,UNKNOWN,JSON,JSHint,XML,HTML,JavaScript,Less,Images,CSS,SourceMap,ARCHIVE,JSP" collectionTime="1455554475550" />
+      <project id="tm.web" values="ECMAScript 5.1" collectionTime="1458559985162" />
     </group>
     <group name="module type">
-      <project id="tm.web" values="WEB_MODULE" collectionTime="1455554475543" />
+      <project id="tm.web" values="WEB_MODULE" collectionTime="1458559985089" />
+    </group>
+    <group name="vcs">
+      <project id="tm.web" values="hg4idea" collectionTime="1458559985086" />
+    </group>
+    <group name="file-type">
+      <project id="tm.web" values="JSCS,JSON,YAML,PATCH,HTML,Native,SourceMap,JSHint,JavaScript,JSP,Less,C++,UNKNOWN,ESLint,CSS,XML,Images,PLAIN_TEXT" collectionTime="1458559985113" />
     </group>
     <group name="javaScript Scope Usages">
-      <project id="tm.web" values="Project,Project" collectionTime="1455554475689" />
+      <project id="tm.web" values="Project,Project" collectionTime="1458559985161" />
+    </group>
+    <group name="Git">
+      <project id="tm.web" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.ssh.enabled,config.push.update.all.roots.enabled" collectionTime="1458559985151" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -26,7 +26,7 @@
       <entry feature="ide.settings.Font" count="6" />
       <entry feature="ide.settings.Inspections" count="1" />
       <entry feature="ide.settings.Keymap" count="1" />
-      <entry feature="ideaapp.started" count="8" />
+      <entry feature="ideaapp.started" count="9" />
       <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
     </counts>
   </component>
